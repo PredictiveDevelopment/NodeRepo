@@ -1,0 +1,27 @@
+{
+    "cordova-plugin-geolocation": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-geolocation"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-whitelist": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-whitelist@1"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "uk.co.workingedge.phonegap.plugin.launchnavigator": {
+        "source": {
+            "type": "git",
+            "url": "https://github.com/dpa99c/phonegap-launch-navigator",
+            "subdir": "."
+        },
+        "is_top_level": true,
+        "variables": {}
+    }
+}
